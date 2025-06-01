@@ -76,19 +76,46 @@ A modern portfolio to showcase my expertise in full-stack development and DevOps
 
 ## ✨ Key Features
 
-| Frontend 🎨 | Backend ⚙️ |
-|-------------|-------------|
-| 📱 Responsive mobile-first layout | 🔐 JWT & OAuth2 authentication |
-| 🌈 Modern animations | 🔄 RESTful APIs |
-| ⚡ High-speed loading | 📊 Advanced data management |
-
-| Database 📂 | DevOps ☁️ |
-|-------------|-------------|
-| 🧩 SQL + NoSQL schemas | 🐳 Dockerized environments |
-| 🧠 Efficient indexing | 🚀 CI/CD via GitHub Actions |
-| 🔄 Data sync & backup | ☁️ Full cloud deployment (AWS/Azure) |
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>Frontend</h3>
+        <ul>
+          <li>📱 Mobile-first responsive design</li>
+          <li>🎨 Custom animations & transitions</li>
+          <li>⚡ Optimized performance</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>Backend</h3>
+        <ul>
+          <li>🔐 Secure authentication</li>
+          <li>📊 Efficient data processing</li>
+          <li>🔄 RESTful API endpoints</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3>Database</h3>
+        <ul>
+          <li>🗄️ Structured SQL schemas</li>
+          <li>📂 Flexible NoSQL documents</li>
+          <li>⚡ High-performance queries</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3>DevOps</h3>
+        <ul>
+          <li>☁️ Cloud deployment</li>
+          <li>🔄 CI/CD pipeline</li>
+          <li>📦 Containerization</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Quick Start
 
