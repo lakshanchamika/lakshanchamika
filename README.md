@@ -115,6 +115,103 @@ This portfolio showcases my full-stack development capabilities with:
 
 ```bash
 # Clone repository
+
+
+............................................................
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
+  G.C.L.Lakpathi - Senior Full Stack Engineer
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28">
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=38BDD8&center=true&vCenter=true&width=500&lines=Microservices+%7C+Cloud+Architecture+%7C+DevOps;Full+Stack+Development+%7C+Technical+Leadership" alt="Expertise" />
+</p>
+
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fyour-username">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyour-username&label=PROFILE%20VIEWS&labelColor=%2337d67a&countColor=%23f47373" alt="Visitor Count"/>
+  </a>
+</div>
+
+---
+
+## 📌 Professional Highlights
+
+✅ **8+ years** of full-stack development experience  
+✅ **AWS Certified Solutions Architect** & **Azure Certified Developer**  
+✅ Led **3+ enterprise-scale** Spring Boot microservices projects  
+✅ **Mentored 15+ junior developers** in cross-functional teams  
+✅ Speaker at **DevOps Days Colombo 2023**
+
+---
+
+## 🛠️ Technology Radar
+
+### **Core Stack**
+| Category       | Technologies                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Languages**  | Java, JavaScript (ES6+), TypeScript, Python, SQL                            |
+| **Frameworks** | Spring Boot, React, Next.js, Vue.js, Express.js, Hibernate                  |
+| **Cloud**      | AWS (EC2, S3, Lambda, RDS), Azure (VMs, Functions, Cosmos DB)               |
+| **DevOps**     | Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, Prometheus          |
+
+---
+
+## 🏆 Certifications
+
+<div align="center">
+  
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/your-badge-id)
+[![Azure Certified](https://img.shields.io/badge/Azure_Certified-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/users/your-profile)
+[![Oracle Certified](https://img.shields.io/badge/Oracle_Java-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/your-cert)
+
+</div>
+
+---
+
+## 🏗️ Project Portfolio
+
+### 1. **Banking Microservices Platform** (2023)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)
+
+**Key Contributions**:
+- Designed **event-driven architecture** using Kafka
+- Implemented **OAuth2 security** with Spring Security
+- Reduced deployment time by **70%** using Docker/Kubernetes
+
+[![View Case Study](https://img.shields.io/badge/Case_Study-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-link)
+
+---
+
+## 📈 GitHub Metrics
+
+<div align="center">
+  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🗓️ Experience Timeline
+
+```mermaid
+gantt
+    title Professional Journey
+    dateFormat  YYYY-MM
+    section Core Experience
+    Java Development       :active, 2016-01, 2024-06
+    Cloud Architecture     :active, 2019-01, 2024-06
+    Team Leadership        :active, 2021-01, 2024-06
+    
+    section Key Projects
+    E-Commerce Platform    :done, 2021-03, 2022-08
+    Banking Microservices  :crit, active, 2022-09, 2024-06
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
