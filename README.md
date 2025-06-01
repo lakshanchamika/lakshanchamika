@@ -2,7 +2,7 @@
 <p>A passionate full-stack developer from Sri Lanka</p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  Full-Stack Developer Portfolio
+  Full-Stack Developer and devops  Portfolio
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="28">
 </h1>
 
