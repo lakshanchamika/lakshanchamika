@@ -117,6 +117,15 @@ A modern portfolio to showcase my expertise in full-stack development and DevOps
   </table>
 </div>
 
+
+## ⚙️ Skills
+
+![C](https://img.shields.io/badge/C-Intermediate-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-green)
+![HTML](https://img.shields.io/badge/HTML-Basic-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![DevOps](https://img.shields.io/badge/DevOps-Learning-lightgrey)
+
 ## 🚀 Quick Start
 
 ```bash
