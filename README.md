@@ -117,14 +117,28 @@ A modern portfolio to showcase my expertise in full-stack development and DevOps
   </table>
 </div>
 
+## 📈 Profile Insights
 
-## ⚙️ Skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
-![C](https://img.shields.io/badge/C-Intermediate-blue)
-![Python](https://img.shields.io/badge/Python-Advanced-green)
-![HTML](https://img.shields.io/badge/HTML-Basic-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![DevOps](https://img.shields.io/badge/DevOps-Learning-lightgrey)
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
+
+---
+
+## 💡 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 🚀 Quick Start
 
